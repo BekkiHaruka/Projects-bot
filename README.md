@@ -1,5 +1,1 @@
-"# -" 
-"# Projects-bot" 
-"# Projects-bot" 
-"# Projects-bot" 
-"# Projects-bot" 
+Projectsの動きを察知するマン作りたい
